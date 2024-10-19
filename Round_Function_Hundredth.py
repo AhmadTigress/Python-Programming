@@ -1,0 +1,8 @@
+print(round(674, 2))
+print(round(674, 0))
+print(round(674, -1))
+print(round(674, -2))
+print(round(674, -3))
+print(round(674, -4))
+print(round(665, -1))
+print(round(675, -1))
